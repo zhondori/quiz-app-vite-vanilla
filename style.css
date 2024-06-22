@@ -1,0 +1,98 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap");
+
+:root {
+  font-family: "Inter", sans-serif;
+  color: #1a1a1a;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+button {
+  cursor: pointer;
+}
+
+body {
+  background: linear-gradient(
+    90deg,
+    hsla(195, 86%, 50%, 1) 0%,
+    hsla(236, 93%, 65%, 1) 100%
+  );
+}
+
+#app {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.quiz-container {
+  display: flex;
+  flex-direction: column;
+  background: #FFF;
+  border-radius: 6px;
+  padding: 32px;
+  gap: 16px;
+  min-width: 480px;
+}
+
+.quiz-header {
+  font-size: 20px;
+  font-weight: 600;
+  display: flex;
+  justify-content: space-between;
+}
+
+.quiz-footer {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.quiz-content {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.quiz-content .quiz-variants {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.quiz-variants button {
+  padding: 10px 20px;
+  text-align: start;
+  border: 1px solid gray;
+  border-radius: 6px;
+  font-size: 18px
+}
+
+/* .quiz-variants */
+
+.quiz-footer button {
+  padding: 12px 20px;
+  border-radius: 8px;
+  border: none;
+  background: dodgerblue;
+  color: white;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+button.correct {
+  background: #41B06E;
+  color: #ffffff;
+  border-color: #41B06E;
+}
+
+button.incorrect {
+  background: crimson;
+  color: #ffffff;
+  border-color: crimson;
+}

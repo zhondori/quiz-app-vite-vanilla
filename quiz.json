@@ -1,0 +1,212 @@
+[
+  {
+    "question": "What does HTML stand for?",
+    "variants": [
+      {
+        "text": "HyperText Markup Language",
+        "correct": true
+      },
+      {
+        "text": "HyperText Markdown Language",
+        "correct": false
+      },
+      {
+        "text": "HighText Markup Language",
+        "correct": false
+      },
+      {
+        "text": "Hyperlink and Text Markup Language",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is a JavaScript framework?",
+    "variants": [
+      {
+        "text": "Angular",
+        "correct": true
+      },
+      {
+        "text": "Laravel",
+        "correct": false
+      },
+      {
+        "text": "Django",
+        "correct": false
+      },
+      {
+        "text": "Spring",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Which HTML tag is used to define an internal style sheet?",
+    "variants": [
+      {
+        "text": "<style>",
+        "correct": true
+      },
+      {
+        "text": "<css>",
+        "correct": false
+      },
+      {
+        "text": "<script>",
+        "correct": false
+      },
+      {
+        "text": "<link>",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "In CSS, which property is used to change the text color of an element?",
+    "variants": [
+      {
+        "text": "color",
+        "correct": true
+      },
+      {
+        "text": "font-color",
+        "correct": false
+      },
+      {
+        "text": "text-color",
+        "correct": false
+      },
+      {
+        "text": "text-style",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What is the purpose of the <head> section in an HTML document?",
+    "variants": [
+      {
+        "text": "To contain meta-information about the document",
+        "correct": true
+      },
+      {
+        "text": "To contain the main content of the document",
+        "correct": false
+      },
+      {
+        "text": "To display the title of the document",
+        "correct": false
+      },
+      {
+        "text": "To define the footer of the document",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is used to create a responsive design?",
+    "variants": [
+      {
+        "text": "Media queries",
+        "correct": true
+      },
+      {
+        "text": "JavaScript functions",
+        "correct": false
+      },
+      {
+        "text": "CSS pseudo-classes",
+        "correct": false
+      },
+      {
+        "text": "HTML data attributes",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What does CSS stand for?",
+    "variants": [
+      {
+        "text": "Cascading Style Sheets",
+        "correct": true
+      },
+      {
+        "text": "Colorful Style Sheets",
+        "correct": false
+      },
+      {
+        "text": "Computer Style Sheets",
+        "correct": false
+      },
+      {
+        "text": "Creative Style Sheets",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Which attribute is used to provide alternative text for an image?",
+    "variants": [
+      {
+        "text": "alt",
+        "correct": true
+      },
+      {
+        "text": "title",
+        "correct": false
+      },
+      {
+        "text": "src",
+        "correct": false
+      },
+      {
+        "text": "href",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is a CSS framework?",
+    "variants": [
+      {
+        "text": "Bootstrap",
+        "correct": true
+      },
+      {
+        "text": "Node.js",
+        "correct": false
+      },
+      {
+        "text": "jQuery",
+        "correct": false
+      },
+      {
+        "text": "Ruby on Rails",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Which HTML element is used to define navigation links?",
+    "variants": [
+      {
+        "text": "<nav>",
+        "correct": true
+      },
+      {
+        "text": "<ul>",
+        "correct": false
+      },
+      {
+        "text": "<div>",
+        "correct": false
+      },
+      {
+        "text": "<header>",
+        "correct": false
+      }
+    ]
+  }
+]
